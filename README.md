@@ -1,5 +1,6 @@
 # Captcha Telegram Bot
-Telegram bot ([@captcha_moderator_bot](https://t.me/captcha_moderator_bot)) that validates new users that enter supergroup. Validation works like a simple captcha.
+Telegram bot ([@captcha_moderator_bot](https://t.me/captcha_moderator_bot)) that validates new users that enter supergroup. Validation works like a simple captcha.<br>
+![alt tag](https://github.com/iterweb/captcha_telegram_bot/blob/master/captcha_img/photo_2021-47.jpg "Captcha Telegram Bot")​
 
 ## Install requirements
 `pip install aiogram`<br>
