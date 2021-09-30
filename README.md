@@ -16,6 +16,3 @@ Telegram bot that validates new users that enter supergroup. Validation works li
 
 ## Configuration
 In the `config.py` file you need to specify `BOT_TOKEN`
-
-## Donate
-If you want, you can [support](https://destream.net/live/iterweb/donate) me!
